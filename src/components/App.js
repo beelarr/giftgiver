@@ -19,7 +19,7 @@ class App extends Component {
       <div>
         <h2>Gift Giver</h2>
         <Button className="btn-add" onClick={this.addGift}>
-          Add Gift
+          Add Gift Test
         </Button>
       </div>
     );
